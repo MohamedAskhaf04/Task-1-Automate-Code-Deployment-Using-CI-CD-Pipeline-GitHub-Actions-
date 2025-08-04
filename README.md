@@ -30,11 +30,7 @@ Tools Used: GitHub, GitHub Actions, Node.js, Docker, DockerHub
        -Ran with docker run -p 3000:8080 <askhaf04/nodejs-demo-app:latest>
        -App opened and ran successfully
 
-This is my workflow for task-1 of DevOps internship done succesfully,i really exicited while do the task & more intresting. i gained CI/CD pipelines working method using GitHub Actions i understanded about .yml file working which is configure everything in workflow i gained knowledge about that and then build images in dockerfile then push images to my docker hub which is fully automated then assign port number with my LocalHost it ran successfully.i knew about automated CI/CD pipelines using GitHub Actions.
+This is my workflow for task-1 of DevOps internship done succesfully,i really exicited while do the task & more intresting. i gained CI/CD pipelines working method using GitHub Actions, (main.yml file is inside the folder of .github/workflows/main.yml) it is the deliverable of workflow file of task, i understanded about .yml file working which is configure everything in workflow i gained knowledge about that and then build images in dockerfile then push images to my docker hub which is fully automated then assign port number with my LocalHost it ran successfully.i knew about automated CI/CD pipelines using GitHub Actions.
 
 *Note 
-    I have attached some screenshots what i'm done in the folder of Screenshots of my task
-
-
-
-                                                                                     Thankyou for the oppurtunity...
+    I have attached some screenshots what i'm done in the folder of(Screenshots of my task)
