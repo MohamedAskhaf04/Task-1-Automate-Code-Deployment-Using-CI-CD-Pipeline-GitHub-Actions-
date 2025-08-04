@@ -33,7 +33,7 @@ Tools Used: GitHub, GitHub Actions, Node.js, Docker, DockerHub
 This is my workflow for task-1 of DevOps internship done succesfully,i really exicited while do the task & more intresting. i gained CI/CD pipelines working method using GitHub Actions i understanded about .yml file working which is configure everything in workflow i gained knowledge about that and then build images in dockerfile then push images to my docker hub which is fully automated then assign port number with my LocalHost it ran successfully.i knew about automated CI/CD pipelines using GitHub Actions.
 
 *Note 
-    I have attached some screenshots what i'm done in the folder of <Screenshots of my task> 
+    I have attached some screenshots what i'm done in the folder of Screenshots of my task
 
 
 
