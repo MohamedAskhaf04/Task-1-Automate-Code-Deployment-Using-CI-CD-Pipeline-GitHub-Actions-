@@ -1,4 +1,4 @@
-Internship Task Submission Report
+Internship Task Submission Report:
 
 Task: Automate Code Deployment Using CI/CD Pipeline (GitHub Actions) Task-1
 Intern Name: Mohamed Askhaf
